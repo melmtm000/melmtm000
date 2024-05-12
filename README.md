@@ -1,6 +1,6 @@
 ### Bem vindos ao meu perfil 😃 
 
-Meu chamo Melissa
+## Meu chamo Melissa
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
