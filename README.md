@@ -1,16 +1,14 @@
-### Hi there 👋
+### Bem vindos ao meu perfil 😃 
 
-<!--
-**melmtm000/melmtm000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu chamo Melissa
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+  
+### Você pode entrar em contato comigo :mailbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+melissasantanasanches180@gmail.com
+@sanchesmel_ 
+ 
+ ![image](https://github.com/melmtm000/melmtm000/assets/169570867/17374c37-cc91-4469-bcef-cf351d8b9668)
